@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ef30f41dfd3b3ccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13f21dde625fa32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d565d74a9ac42b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sound_game_diary/2026-04-25 README.md書いたー.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-25 README.md書いたー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "630c48601116848d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1738cd708ec4e4a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c1f51a7bef313a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "aea5fc0566e62704",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "bf1e6acfcb2d3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e540e4f4d57dc0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab793729f1a4151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99524d34a65569cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README.mdへのバックリンク"
+            }
+          },
+          {
+            "id": "1c21a9d1fa919e32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README.mdからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "5e66dfd40fce5009",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "4b596166b0db651b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "376844965b1e39b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README.mdのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "3d565d74a9ac42b6",
+  "lastOpenFiles": [
+    "sound_game_diary/2026-04-16 GEMINI.mdにゲームの理想を伝えた.md",
+    "sound_game_diary/2026-04-25 README.md書いたー.md",
+    "README.md.md",
+    "GEMINI.md",
+    "gamerule.md",
+    "Temp/UnityTempFile-6ef5ed615d71eea4b840202088f7c5a3",
+    "Temp/UnityTempFile-ba95dc33b6fbc2f4ca9c1afe66dab8a7",
+    "Temp/UnityTempFile-a556bdc507f1bbf4394cbe797ca2acef",
+    "Temp/UnityTempFile-36b3b5836a3ac094985e08b419d4324f",
+    "Temp/ADB-Refresh0810709ec7a0e7e4a91f7a4d5194f542",
+    "sound_game_diary/2026-03-17 unity始めるか.md"
+  ]
+}
