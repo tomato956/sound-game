@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2048
     height: 1108.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 12}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 77
+  controlID: 52
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -230,7 +230,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 113
+  controlID: 107
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -378,7 +378,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 43.2
+    y: 0
     width: 2048
     height: 36
   m_SerializedDataModeController:
@@ -643,8 +643,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1496
-    y: 780.8
+    x: 1
+    y: 725.6
     width: 551
     height: 325.20007
   m_SerializedDataModeController:
@@ -690,15 +690,14 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 49570
+    - m_Data: 49556
     m_LastClickedID:
-      m_Data: 49570
+      m_Data: 49556
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 49256
-    - m_Data: 49258
-    - m_Data: 49260
-    - m_Data: 1000000000
+    - m_Data: 49242
+    - m_Data: 49244
+    - m_Data: 49246
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -731,9 +730,9 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 49256
-    - m_Data: 49258
-    - m_Data: 49260
+    - m_Data: 49242
+    - m_Data: 49244
+    - m_Data: 49246
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -760,8 +759,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 49128
+    m_LastClickedInstanceID: 49128
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_Data: 0
@@ -815,8 +815,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1496
-    y: 79.200005
+    x: 1
+    y: 24
     width: 551
     height: 675.6
   m_SerializedDataModeController:
@@ -866,8 +866,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 900
-    y: 79.200005
+    x: 1
+    y: 24
     width: 594
     height: 675.6
   m_SerializedDataModeController:
@@ -891,6 +891,7 @@ MonoBehaviour:
         m_Data: 0
       m_ExpandedIDs:
       - m_Data: -1320
+      - m_Data: 49112
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -938,7 +939,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 899
     height: 486
   m_SerializedDataModeController:
@@ -1427,9 +1428,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -311.4768, y: -25.760181, z: -9.407801}
+    m_Target: {x: -264.59555, y: 791.21344, z: 4.3903785}
     speed: 2
-    m_Value: {x: -311.4768, y: -25.760181, z: -9.407801}
+    m_Value: {x: -264.59555, y: 791.21344, z: 4.3903785}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1479,9 +1480,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 992.00604
+    m_Target: 283.059
     speed: 2
-    m_Value: 992.00604
+    m_Value: 283.059
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1536,8 +1537,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 900
-    y: 780.8
+    x: 1
+    y: 725.6
     width: 594
     height: 325.20007
   m_SerializedDataModeController:
@@ -1575,7 +1576,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 591.2
+    y: 536
     width: 899
     height: 514.80005
   m_SerializedDataModeController:
@@ -1651,7 +1652,7 @@ MonoBehaviour:
       height: 1152
     m_MinimalGUI: 1
   m_defaultScale: 0.42864588
-  m_LastWindowPixelSize: {x: 1123.75, y: 643.50006}
+  m_LastWindowPixelSize: {x: 899, y: 514.80005}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000

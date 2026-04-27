@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "sound_game_diary/2026-04-27 ノーツ増やした！！.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-04-27 ノーツ増やした！！"
             }
           }
         ]
@@ -185,17 +185,26 @@
   },
   "active": "3d565d74a9ac42b6",
   "lastOpenFiles": [
-    "sound_game_diary/2026-04-25 README.md書いたー.md",
+    "Library/Artifacts/cb/cb33df96421a1a88defaad7ee2e69534",
+    "Library/TempArtifacts/Extra/182e982b5ed41e849bc7a54e696556b8.b.index",
+    "Temp/ADB-Refresh73867ac618e86644f9205ee5ce37be60",
+    "sound_game_diary/2026-04-26 READ.mdの名称を直した.md",
+    "sound_game_diary/2026-04-27 ノーツ増やした！！.md",
+    "Library/Artifacts/b8/b85be7df933748bf026d4070066a7138",
+    "Library/TempArtifacts/Extra/be45fbe76e20a464197d89de3dce3602.b.index",
+    "Library/Artifacts/73/73d295a694c30b6502f6b96ce84a7d32",
+    "Assets/Prefab/right.prefab.meta",
+    "Assets/Prefab/right.prefab",
+    "Library/Artifacts/22/226313725363d3931920a23d19773bc6",
+    "Library/Artifacts/e6/e64a4bf3b98e42999bdbb34dacfd2e28",
+    "Assets/Prefab/left.prefab.meta",
+    "2026-04-26.md",
     "README.md",
+    "sound_game_diary/2026-04-25 README.md書いたー.md",
     "sound_game_diary/2026-04-16 GEMINI.mdにゲームの理想を伝えた.md",
     "README.md.md",
     "GEMINI.md",
     "gamerule.md",
-    "Temp/UnityTempFile-6ef5ed615d71eea4b840202088f7c5a3",
-    "Temp/UnityTempFile-ba95dc33b6fbc2f4ca9c1afe66dab8a7",
-    "Temp/UnityTempFile-a556bdc507f1bbf4394cbe797ca2acef",
-    "Temp/UnityTempFile-36b3b5836a3ac094985e08b419d4324f",
-    "Temp/ADB-Refresh0810709ec7a0e7e4a91f7a4d5194f542",
     "sound_game_diary/2026-03-17 unity始めるか.md"
   ]
 }
